@@ -1,1 +1,1 @@
-Hall
+Hallo, guten Tag!
